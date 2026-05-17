@@ -1,5 +1,3 @@
-Automated geometric and topological analysis engine to test the differentiability of natural language embeddings using Spherical Linear Interpolation (Slerp) and FAISS neighbourhood density metrics.
-
 # Metaphorical Void Analyser: Latent Manifold Differentiability Engine
 
 This repository provides a validation pipeline to stress-test a foundational assumption in modern Natural Language Processing: Are semantic vector spaces truly continuously differentiable manifolds, or are they discrete, anisotropic graphs punctuated by non-semantic vacuums ("empty space")?
